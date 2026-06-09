@@ -13,7 +13,8 @@ An AI agent that finds real Airbnb listings using Google ADK.
 ## Run it
 ```bash
 export GOOGLE_API_KEY='your-key'
-uv run adk web .
+uv run adk web .                   #Web interface
+uv run adk run mysolution/         #CLI mode
 ```
 
 ## Author
