@@ -1,3 +1,6 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/samrawitkiflomCS/travel-agent)
+
+
 # AI Travel Agent
 
 An AI agent that finds real Airbnb listings using Google ADK.
